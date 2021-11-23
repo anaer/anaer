@@ -3,7 +3,7 @@
 
 
 <a href="https://github.com/anaer">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=anaer&column=8&theme=gruvbox&no-frame=true"/>
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=anaer&column=9&theme=gruvbox&no-frame=true"/>
 </a>
 
 
