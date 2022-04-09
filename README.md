@@ -12,4 +12,4 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anaer&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=onedark&locale=cn" />
 </p>
 
-<img src="https://activity-graph.herokuapp.com/graph?username=xlc520&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+<img src="https://activity-graph.herokuapp.com/graph?username=anaer&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
